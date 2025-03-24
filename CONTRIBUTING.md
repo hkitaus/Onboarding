@@ -23,7 +23,7 @@ We encourage content primarily in Traditional Chinese with English translations 
 
 ---
 
-1. [Create a new issue](https://github.com/hkitaus/hOnboardingg/issues/new) on GitHub
+1. [Create a new issue](https://github.com/hkitaus/Onboardingg/issues/new) on GitHub
 2. Choose appropriate labels (e.g., bug, enhancement, documentation)
 3. Clearly describe the issue or suggestion
 4. Provide a proposed fix or solution if possible
@@ -148,7 +148,7 @@ We especially welcome contributions in these areas:
 
 - Telegram群組：[@HKITAus](#)
 - 電子郵件：[contact@hkitaustralia.com](#)
-- GitHub問題頁面：[Issues](https://github.com/username/hk-it-australia-onboarding/issues)
+- GitHub問題頁面：[Issues](https://github.com/hkitaus/Onboarding/issues)
 
 ---
 
@@ -156,7 +156,7 @@ If you have questions or need assistance, please contact:
 
 - Telegram group: [@HKITAus](#)
 - Email: [contact@hkitaustralia.com](#)
-- GitHub Issues page: [Issues](https://github.com/username/hk-it-australia-onboarding/issues)
+- GitHub Issues page: [Issues](https://github.com/hkitaus/Onboarding/issues)
 
 ## 感謝 | Acknowledgements
 
