@@ -15,7 +15,7 @@
 
 ### Telegram 主群組
 - 群組名稱：澳洲 IT 人
-- 連結：[加入 Telegram](https://t.me/+j_hyqCUg3Jk0YjVI)
+- 連結：[加入 Telegram](https://t.me/+ljVAZeVkkL01NjA9)
 - 內容：日常交流、即時問答、最新資訊分享
 
 
